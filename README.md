@@ -5,7 +5,7 @@ A collection of 3D models created for free use as part of the model-a-day challe
 
 Try to include the following with every model:
 - `.blend` file
-- `.png` file (1280x800) image of the rendered model
+- `.png` image of the rendered model
 - `.stl` file, allowing online previewing
 - `.fbx` file, for use in UE4
 
