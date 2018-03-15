@@ -7,11 +7,14 @@ Try to include the following with every model:
 - `.blend` file
 - `.png` file image preview of the rendered model
 - `.stl` file, allowing online previewing
+- `.fbx` file, for use in UE4
 
 with the same prefix for each file.
 
+Put each model's files in their own folder dedicated to the file for that model.
+
 ### Example:
 
-- `example.blend`, `example.png`, `example.stl`
+- `example/example.blend`, `example/example.png`, `example/example.stl`, `example/example.fbx`
 
 Feel free to use as many subfolders as possible to distinguish groups of models.
